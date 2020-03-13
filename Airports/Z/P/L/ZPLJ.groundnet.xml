@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Experimental groundnet for ZPLJ -->
+<groundnet>
+  <version>1</version>
+  <parkingList>
+	<Parking index="1" type="gate" name="Gate_1" lat="N26 40.2925" lon="E100 14.7512" heading="110.01"  radius="44" pushBackRoute="" airlineCodes="" />
+        <Parking index="2" type="gate" name="Gate_2" lat="N26 40.2542" lon="E100 14.7308" heading="110.01"  radius="44" pushBackRoute="" airlineCodes="" />
+ </parkingList>
+</groundnet>
